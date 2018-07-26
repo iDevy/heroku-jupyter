@@ -17,6 +17,16 @@ dependencies:
   - six
   - sqlalchemy
   - nose
+  # scientific
+  - scipy
+  - pyflux
+  - pandas
+  - scikit-learn
+  # network x
+  - decorator
+  - networkx
+  # mongo
+  - pymongo
   - pip:
     - pgcontents
     - git+git://github.com/ipython-contrib/jupyter_contrib_nbextensions.git
